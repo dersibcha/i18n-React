@@ -26,7 +26,7 @@ i18n
       },
       es: {
         translation: {
-          title: "Poryecto i18n en React",
+          title: "Proyecto i18n en React",
           english: "Ingles",
           spanish: "Español",
         },
